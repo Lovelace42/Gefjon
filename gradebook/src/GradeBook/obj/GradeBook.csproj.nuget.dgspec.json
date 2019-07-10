@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Projects\\Gefjon\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
         "projectPath": "C:\\Projects\\Gefjon\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "packagesPath": "C:\\Users\\Sophia\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\sangus\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\Gefjon\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sophia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sangus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
