@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CityApp.API", "CityApp.API.csproj", "{EF24813F-91A1-4D4A-91AD-00DC33DC3909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8713C20E-1175-4654-82BA-68FF23C44234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF24813F-91A1-4D4A-91AD-00DC33DC3909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF24813F-91A1-4D4A-91AD-00DC33DC3909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF24813F-91A1-4D4A-91AD-00DC33DC3909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF24813F-91A1-4D4A-91AD-00DC33DC3909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF24813F-91A1-4D4A-91AD-00DC33DC3909} = {8713C20E-1175-4654-82BA-68FF23C44234}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2297E9E8-04B5-44E5-BB9A-EF5C0BA11AAD}
+	EndGlobalSection
+EndGlobal
